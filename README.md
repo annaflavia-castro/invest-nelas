@@ -14,9 +14,8 @@
     <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-success?style=flat"></a>
 </p>
 
-<h3 align="center"> A InvestNelas é um aplicativo que conecta empreendedoras com possíveis investidores. Em nossa plataforma, a usuária passará por uma análise, detalhando seu negócio. A proposta é será avaliada e, se necessário, temos a trilha de conhecimento, local para capacitar mulheres no âmbito profissional e pessoal. Com a proposta alinhada, a usuária estará pronta para apresentar seu pitch e buscar por investidores. Assim, aquele que se interessar por algum projeto, poderá financiar a ideia. Nosso diferencial é ser um ambiente de conexão empreendedora-investidor e fornecer uma capacitação especializada. </h3>
+<h4 align="center"> A InvestNelas é um aplicativo que conecta empreendedoras com possíveis investidores. Em nossa plataforma, a usuária passará por uma análise, detalhando seu negócio. A proposta é será avaliada e, se necessário, temos a trilha de conhecimento, local para capacitar mulheres no âmbito profissional e pessoal. Com a proposta alinhada, a usuária estará pronta para apresentar seu pitch e buscar por investidores. Assim, aquele que se interessar por algum projeto, poderá financiar a ideia. Nosso diferencial é ser um ambiente de conexão empreendedora-investidor e fornecer uma capacitação especializada. </h4>
 
-<h3 align="center"><img src="mobile/src/images/react-native.png" alt="react-native" height="18"> React Native </h3>
 
 <p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
 
@@ -38,10 +37,6 @@
     <li><a href="http://knexjs.org/">Knex</a></li>
     <li><a href="https://expo.io/">Expo</a></li>
 </ul>
-
-## Screens
-![image]()
-
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.

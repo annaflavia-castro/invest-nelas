@@ -40,15 +40,8 @@
 </ul>
 
 ## Screens
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_ong.png)
+![image]()
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/login.png)
-
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_incident.png)
-
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/incidents.png)
-
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/smartphone.png)
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
